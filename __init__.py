@@ -1,0 +1,1 @@
+from module1 import welcome_page(title)
